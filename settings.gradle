@@ -1,0 +1,2 @@
+include ':exowrap-hls-audio', ':example'
+rootProject.name='exowrap-hls-audio'
