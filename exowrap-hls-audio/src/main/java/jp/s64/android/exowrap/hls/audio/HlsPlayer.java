@@ -328,7 +328,7 @@ public class HlsPlayer {
 
     public void play() {
         play(
-                !isBuffering(),
+                isBuffering(),
                 false
         );
     }
